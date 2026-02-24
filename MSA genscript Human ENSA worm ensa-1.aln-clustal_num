@@ -1,0 +1,18 @@
+CLUSTAL O(1.2.4) multiple sequence alignment
+
+
+Human      MSQKQEEENPAEETGEEKQD--TQEKEGILPERAEEAKLKAKYPSLGQKPG--GSDFLMK	56
+Worm       ---------MRGEAGELAVSSGEIATGALSPEKQQEQELMGKLAATGKLPARPASSFLQK	51
+                       *:**   .     . .: **: :* :* .*  : *: *.  .*.** *
+
+Human      RLQKGDYKSLHWSVLLCADEMQKYFDSGDYNMAKAKMKNKQ----LPSAG-PD--KNLV-	108
+Worm       -----------------KLQQRKFFDSGDYAMDKSKAGTGLGSKPHPLAGGPPPAAPPVV	94
+                              : :*:****** * *:*  .       * ** *      * 
+
+Human      ----------------------------------TGDHIPTPQDLPQRKSSLVTSKLAGG	134
+Worm       AQRSPAPAATTPSPSASPISQQTNRPSSDRNSDDDNLQIPRPDTVPQRKASIINPSVHCK	154
+                                              . :** *: :****:*::. .:   
+
+Human      QVE-----------------	137
+Worm       LSPAPHVQHHDAASPNATSE	174
+                               
